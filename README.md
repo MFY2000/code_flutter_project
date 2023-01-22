@@ -4,13 +4,27 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Assignmet 5
 
-A few resources to get you started if this is your first Flutter project:
+<ul>
+<li> Question 1 
+<image src="assets/readme/1.png" />
+</li>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<li> Question 2
+<image src="assets/readme/2.png" />
+</li>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<li> Question 3 
+<image src="assets/readme/3.png" />
+</li>
+
+<li> Question 4 
+<image src="assets/readme/4.png" />
+</li>
+
+<li> Question 5 
+<image src="assets/readme/5.png" />
+</li>
+
+</ul>
